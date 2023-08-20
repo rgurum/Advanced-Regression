@@ -1,4 +1,4 @@
-# Bike Sharing Assignment
+# House Price Prediction
 > Objective is to build a required model that predict the Price of the house with the available independent variables. It will be used by the management to understand how the sale price vary with different features. Based on the model prediction/ demand understand, the stretegy will be manipulated to meet the demand levels and meet the customer's expectations. The most fit model will be further way for understand the demand dynamics of a new market.
 
 
